@@ -7,11 +7,13 @@
 
 <script>
 import NavBar from './components/NavBar.vue'
+import Chuck from './components/Chuck'
 
 export default {
   name: 'app',
   components: {
-    NavBar
+    NavBar,
+    Chuck
   }
 }
 </script>
