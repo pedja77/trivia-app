@@ -5,7 +5,6 @@
 </template>
 
 <script>
-// import TriviaApp from './components/TriviaApp'
 
 export default {
   name: 'TriviaApp',
